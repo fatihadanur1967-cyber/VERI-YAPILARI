@@ -67,7 +67,6 @@ void dfs(int baslangic) {
 }
 
 int main(void) {
-    /* Sorudaki baglantilar */
     baglantiEkle(ISTANBUL, ANKARA);
     baglantiEkle(ISTANBUL, BURSA);
     baglantiEkle(ANKARA, IZMIR);
